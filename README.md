@@ -1,8 +1,4 @@
-# invie-github
-Este repo es el de invie 
+# invie
+Las guitarras más locas
 
-```bash
-sudo setup.py install
-```
-
-
+http://leonidasesteban.github.io/invie-responsive/
